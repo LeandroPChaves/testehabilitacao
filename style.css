@@ -63,4 +63,25 @@ footer{
 
 }
 
+@media(max-width:450px){
+    header h1{
+     font-size: 20px; 
+     color: black;
+    }
+    body{
+     margin:auto;
+     color: black;
+     background-image: url(imgcarro.png);
+     background-size: 1300px 1000px;
+    } 
+    form{
+      margin-top: 300px;
+    }
+    footer{
+      width: 100%;
+      margin-top: 297px;
+    }
+ 
+ }
+
     
